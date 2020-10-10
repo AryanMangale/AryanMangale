@@ -11,6 +11,6 @@
 ![](https://img.shields.io/badge/Code-Vue-informational?style=for-the-badge&logo=vue.js&logoColor=white&color=46e086)
 
 ## :chart_with_upwards_trend: My Github stats
-[![Aryan's github stats](https://github-readme-stats.vercel.app/api?username=AryanMangale&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AryanMangale)](https://github.com/anuraghazra/github-readme-stats)
+[![Aryan's github stats](https://github-readme-stats.vercel.app/api?username=AryanMangale&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AryanMangale&repo=Anew&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
