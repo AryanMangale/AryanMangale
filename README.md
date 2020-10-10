@@ -1,7 +1,10 @@
-- 🔭 I’m currently working on... [Anew](https://github.com/AryanMangale/Anew)
-- 🌱 I’m currently learning... Everything!
-- 👯 I’m looking to collaborate on... Open Source projects
-- ⚡ Fun fact: I use Arch.
+## :book: About me
+- 🖥 I like to code.
+- [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Archlinux-icon-crystal-64.svg" height="20em" align="center" alt="Arch Linux Logo" title="Arch Linux Logo"/>](https://archlinux.org/) I use Arch.
+
+## My focus right now
+- [](https://github.com/aryanmangale/)
+
 
 ## :wrench: Tools and technologies
 ![](https://img.shields.io/badge/OS-Arch%20linux-informational?style=for-the-badge&logo=arch-linux&logoColor=white&color=00ccff)
@@ -9,6 +12,7 @@
 ![](https://img.shields.io/badge/Editor-VS%20Code-informational?style=for-the-badge&color=119ed1)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=for-the-badge&logo=gnu-bash&logoColor=white&color=004857)
 ![](https://img.shields.io/badge/Code-Vue-informational?style=for-the-badge&logo=vue.js&logoColor=white&color=46e086)
+![](https://img.shields.io/badge/Code-Javascript-informational?style=for-the-badge&logo=javascript&logoColor=white&color=ffea00)
 
 ## :chart_with_upwards_trend: My Github stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AryanMangale)](https://github.com/AryanMangale)
@@ -17,3 +21,5 @@
 
 
 Credit to https://github.com/anuraghazra/github-readme-stats for the stats.
+
+Total visitors - ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=AryanMangale.AryanMangale)
