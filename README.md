@@ -2,12 +2,12 @@
 - 🖥 I like to code.
 - [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Archlinux-icon-crystal-64.svg" height="20em" align="center" alt="Arch Linux Logo" title="Arch Linux Logo"/>](https://archlinux.org/) I use Arch.
 
-## My focus right now
+## :telescope: My focus right now
 - [Anew](https://github.com/aryanmangale/Anew.git) - A project to setup a fresh linux install.
 - [My website](https://en.wikipedia.org/wiki/Nothing) - Still in developement, currently nothing.
 
 
-## :wrench: Tools and technologies
+## :wrench: Tools and tech
 ![](https://img.shields.io/badge/OS-Arch%20linux-informational?style=for-the-badge&logo=arch-linux&logoColor=white&color=00ccff)
 ![](https://img.shields.io/badge/Editor-Vim-informational?style=for-the-badge&logo=vim&logoColor=white&color=00ba06)
 ![](https://img.shields.io/badge/Editor-VS%20Code-informational?style=for-the-badge&color=119ed1)
