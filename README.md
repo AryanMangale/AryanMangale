@@ -1,16 +1,16 @@
-### Hi there 👋
+- 🔭 I’m currently working on... [Anew](https://github.com/AryanMangale/Anew)
+- 🌱 I’m currently learning... Everything!
+- 👯 I’m looking to collaborate on... Open Source projects
+- ⚡ Fun fact: I use Arch.
 
-<!--
-**AryanMangale/AryanMangale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## :wrench: Tools and technologies
+![](https://img.shields.io/badge/OS-Arch%20linux-informational?style=for-the-badge&logo=arch-linux&logoColor=white&color=00ccff)
+![](https://img.shields.io/badge/Editor-Vim-informational?style=for-the-badge&logo=vim&logoColor=white&color=00ba06)
+![](https://img.shields.io/badge/Editor-VS%20Code-informational?style=for-the-badge&color=119ed1)
+![](https://img.shields.io/badge/Shell-Bash-informational?style=for-the-badge&logo=gnu-bash&logoColor=white&color=004857)
+![](https://img.shields.io/badge/Code-Vue-informational?style=for-the-badge&logo=vue.js&logoColor=white&color=46e086)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## :chart_with_upwards_trend: My Github stats
+[![Aryan's github stats](https://github-readme-stats.vercel.app/api?username=AryanMangale&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AryanMangale)](https://github.com/anuraghazra/github-readme-stats)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AryanMangale&repo=Anew&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
