@@ -21,4 +21,4 @@
 [![Aryan's github stats](https://github-readme-stats.vercel.app/api?username=AryanMangale&count_private=true&show_icons=true)](https://github.com/AryanMangale)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AryanMangale&repo=Anew&show_owner=true)](https://github.com/AryanMangale/Anew)
 
-Total visitors - ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=AryanMangale.AryanMangale)
+Total visitors - ![](https://komarev.com/ghpvc/?username=mustafaozhan)
